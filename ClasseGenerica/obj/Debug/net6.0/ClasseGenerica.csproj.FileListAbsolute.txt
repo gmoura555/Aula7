@@ -1,0 +1,15 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\bin\Debug\net6.0\ClasseGenerica.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\bin\Debug\net6.0\ClasseGenerica.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\bin\Debug\net6.0\ClasseGenerica.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\bin\Debug\net6.0\ClasseGenerica.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\bin\Debug\net6.0\ClasseGenerica.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\obj\Debug\net6.0\ClasseGenerica.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\obj\Debug\net6.0\ClasseGenerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\obj\Debug\net6.0\ClasseGenerica.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\obj\Debug\net6.0\ClasseGenerica.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\obj\Debug\net6.0\ClasseGenerica.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\obj\Debug\net6.0\ClasseGenerica.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\obj\Debug\net6.0\refint\ClasseGenerica.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\obj\Debug\net6.0\ClasseGenerica.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\obj\Debug\net6.0\ClasseGenerica.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula7\ClasseGenerica\obj\Debug\net6.0\ref\ClasseGenerica.dll
